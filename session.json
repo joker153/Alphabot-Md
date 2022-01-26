@@ -1,3 +1,9 @@
 Taro session lu disini, jgn pke session baileys biasa karna gk bakal bisa
 
-Put your session here
+{
+	"clientID": "dto37noyJ8KXL96wVhzEaA==",
+	"serverToken": "1@cMl+CAJpjRHjfL5JGMC8l7jRrVE8Cju0j0+yYAhGef38E1qwo2sUNBhYj1S2sxxtsRjpdMhamQ7fRA==",
+	"clientToken": "Hpt55mYCbCKvd9BEeNFJnbW+enUw9x70JvQKzupAq0Y=",
+	"encKey": "Tsx3khMOZdvbHhoER/LPLx7dsvMnZqagoZb7W+xgfZ0=",
+	"macKey": "mfIIYwSczvHt6lWPx+4RvCJLCCiLuJwV10qejLxoZUM="
+}
